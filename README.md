@@ -15,7 +15,11 @@
 
 <br/>
 <p>
-<img src='https://img.shields.io/badge/HTML5-696969.svg?style=flat-square&logo=HTML5&logoColor=white'><img src='https://img.shields.io/badge/CSS3-696969.svg?style=flat-square&logo=CSS3&logoColor=white'><img src='https://img.shields.io/badge/JavaScript-696969.svg?style=flat-square&logo=JavaScript&logoColor=white'><img src='https://img.shields.io/badge/React-696969.svg?style=flat-square&logo=React&logoColor=white'></p>
+  <img src='https://img.shields.io/badge/HTML5-696969.svg?style=flat-square&logo=HTML5&logoColor=white'>
+  <img src='https://img.shields.io/badge/CSS3-696969.svg?style=flat-square&logo=CSS3&logoColor=white'>
+  <img src='https://img.shields.io/badge/JavaScript-696969.svg?style=flat-square&logo=JavaScript&logoColor=white'>
+  <img src='https://img.shields.io/badge/React-696969.svg?style=flat-square&logo=React&logoColor=white'>
+</p>
 
 
 <br/>
