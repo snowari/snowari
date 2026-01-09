@@ -22,6 +22,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/-Vue-000?&logo=Vue.js" alt="Vue">
 </p>
 
@@ -42,12 +43,12 @@
 <p>
   <img src="https://img.shields.io/badge/-Git-000?&logo=Git" alt="Git">
   <img src="https://img.shields.io/badge/-Jira-000?&logo=Jira" alt="Jira">
+  <img src="https://img.shields.io/badge/-Storybook-000?&logo=Storybook" alt="Storybook">
   <img src="https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code" alt="VS Code">
   <img src="https://img.shields.io/badge/-Postman-000?&logo=Postman" alt="Postman">
   <img src="https://img.shields.io/badge/-Figma-000?&logo=Figma" alt="Figma">
   <img src="https://img.shields.io/badge/-Miro-000?&logo=Miro" alt="Miro">
   <img src="https://img.shields.io/badge/-Supabase-000?&logo=Supabase" alt="Supabase">
-  <img src="https://img.shields.io/badge/-Storybook-000?&logo=Storybook" alt="Storybook">
 </p>
 
 <p>
@@ -72,3 +73,5 @@
 <br/>
 <hr/>
 <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
