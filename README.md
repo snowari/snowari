@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-SCSS-000?&logo=Sass" alt="SCSS">
   <img src="https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components" alt="Styled Components">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwindcss" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/-vanilla--extract-000?&logo=vanilla-extract" alt="vanilla-extract">
 </p>
 
 <p>
@@ -46,6 +47,7 @@
   <img src="https://img.shields.io/badge/-Figma-000?&logo=Figma" alt="Figma">
   <img src="https://img.shields.io/badge/-Miro-000?&logo=Miro" alt="Miro">
   <img src="https://img.shields.io/badge/-Supabase-000?&logo=Supabase" alt="Supabase">
+  <img src="https://img.shields.io/badge/-Storybook-000?&logo=Storybook" alt="Storybook">
 </p>
 
 <p>
@@ -61,8 +63,12 @@
 <hr/>
 <br/>
 
-## ⚙️ GitHub Statistics
+## 📜 Certificate
+
+| 자격증 | 취득일 |
+|--------|--------|
+| SQLD (SQL 개발자) | 2025.09 |
 
 <br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
+<br/>
